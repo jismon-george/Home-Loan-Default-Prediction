@@ -26,6 +26,4 @@ application data, bureau history, and repayment behavior.
 | Random Forest | ~0.74 | ~0.61 |
 | Logistic Regression | ~0.70 | ~0.58 |
 
-## How to Run
-pip install -r requirements.txt
-jupyter notebook HomeLoanDefault_Analysis.ipynb
+
