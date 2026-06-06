@@ -26,4 +26,3 @@ application data, bureau history, and repayment behavior.
 | Random Forest | ~0.74 | ~0.61 |
 | Logistic Regression | ~0.70 | ~0.58 |
 
-
