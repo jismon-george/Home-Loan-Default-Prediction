@@ -170,13 +170,6 @@ jupyter notebook PRCP_1024_Texas_Salary_Prediction.ipynb
 
 [![GitHub](https://img.shields.io/badge/GitHub-jismon--george-181717?style=flat-square&logo=github)](https://github.com/jismon-george)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 <div align="center">
 <i>Data sourced from the Texas Tribune / Texas State Comptroller via the Texas Public Information Act.</i>
